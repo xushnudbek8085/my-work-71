@@ -1,0 +1,36 @@
+.a{
+    border: 10px solid green;
+    width: 60px;
+}
+.b{
+    border: 10px dashed green;
+    width: 60px;
+}
+.c{
+    border: 10px dotted green;
+    width: 60px;
+}
+.d{
+    border: 10px double green;
+    width: 60px;
+}
+.e{
+    border: 10px groove green;
+    width: 60px;
+}
+.f{
+    border: 10px hidden green;
+    width: 60px;
+}
+.g{
+    border: 10px ridge green;
+    width: 60px;
+}
+.h{
+    border: 10px inset green;
+    width: 60px;
+}
+.i{
+    border: 10px outset green;
+    width: 60px;
+}
